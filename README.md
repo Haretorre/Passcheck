@@ -9,12 +9,18 @@ Günümüzde güçlü şifre kullanımı dijital güvenliğin en önemli parçal
 
 🚀 Özellikler
 
-Şifre gücünü renkli seviyeler ile gösterir (Çok Zayıf → Çok Güçlü) 🔴🟡🟢
-Puanlama sistemi (0–5 arası) ⭐
-Eksik kriterler için öneriler verir 💡
-Kullanıcı istediği kadar tekrar deneyebilir, q ile çıkış yapabilir ↩️
-.exe olarak paketlenebilir ve ikon desteği vardır 🖥️
-Basit, anlaşılır ve terminal üzerinden çalışır ⚡
+-Şifre gücünü renkli seviyeler ile gösterir (Çok Zayıf → Çok Güçlü) 🔴🟡🟢
+
+-Puanlama sistemi (0–5 arası) ⭐
+
+-Eksik kriterler için öneriler verir 💡
+
+-Kullanıcı istediği kadar tekrar deneyebilir, q ile çıkış yapabilir ↩️
+
+-.exe olarak paketlenebilir ve ikon desteği vardır 🖥️
+
+-Basit, anlaşılır ve terminal üzerinden çalışır ⚡
+
 
 📜 Lisans
 
