@@ -1,5 +1,6 @@
 # Passcheck
-Passcheck 🔒 Passcheck, kullanıcıların şifre güvenlik seviyelerini test etmelerine yardımcı olan bir Python uygulamasıdır. Şifre uzunluğu, büyük/küçük harf, rakam ve özel karakter kullanımına göre puanlama yapar ve eksik kriterler için öneriler sunar. Bu proje hem öğrenme amaçlı hem de pratik bir araç olarak kullanılabilir.
+Passcheck 🔒 
+Passcheck, kullanıcıların şifre güvenlik seviyelerini test etmelerine yardımcı olan bir Python uygulamasıdır. Şifre uzunluğu, büyük/küçük harf, rakam ve özel karakter kullanımına göre puanlama yapar ve eksik kriterler için öneriler sunar. Bu proje hem öğrenme amaçlı hem de pratik bir araç olarak kullanılabilir.
 
 🎯 Amaç
 
