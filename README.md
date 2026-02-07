@@ -15,6 +15,7 @@ Eksik kriterler için öneriler verir 💡
 Kullanıcı istediği kadar tekrar deneyebilir, q ile çıkış yapabilir ↩️
 .exe olarak paketlenebilir ve ikon desteği vardır 🖥️
 Basit, anlaşılır ve terminal üzerinden çalışır ⚡
+
 📜 Lisans
 
 Bu proje MIT Lisansı altında sunulmuştur. Özgürce kullanabilir, değiştirebilir ve paylaşabilirsiniz.
